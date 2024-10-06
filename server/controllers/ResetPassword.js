@@ -64,7 +64,7 @@ exports.resetPassword = async (req, res) => {
     //validation
     if (password != confirmPassword) {
       return req.json({
-        successtrue,
+        success:true,
         message: "Password not matching",
       });
     }
