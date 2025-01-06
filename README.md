@@ -37,6 +37,9 @@
 - **Cloud Services**: Cloudinary for media management
 
 ---
+![Alt Text](public/studyNotion.png "studyNotion")
+
+
 
 
 
